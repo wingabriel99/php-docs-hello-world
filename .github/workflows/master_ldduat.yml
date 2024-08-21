@@ -63,4 +63,4 @@ jobs:
           app-name: 'ldduat'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A288F7E469C741758483507DE43D5979 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_26B5421E8B614E69940F0F6C50C1342B }}
