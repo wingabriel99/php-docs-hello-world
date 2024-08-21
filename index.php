@@ -1,4 +1,4 @@
 <?php
 
-echo "Hello World!";
-phpinfo();
+echo "Hello World! How are you? Server is running.";
+
